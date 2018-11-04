@@ -12,4 +12,10 @@ The need to create content that is accessible to the gamut of blockchain learner
 ## How We Built it
 We used Prezi to create the presentation and Medium to host the articles.
 
+## Articles
+
+[Blockchain 101](https://prezi.com/view/ZIGod5S1Z2sNoqs3RWQX/)
+[The TRON Journey - part 1](https://medium.com/@rexlintc/the-tron-journey-part-1-1b0ad10478bd)
+[The TRON Journey - part 2](https://medium.com/@rexlintc/the-tron-journey-part-2-b16d6cb2fdf2)
+
 ### Cal Hacks 5.0
