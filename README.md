@@ -3,6 +3,12 @@
 # ciTRON
 ## Introduction to Blockchain Technology and an analysis of TRON
 
+[Blockchain 101](https://prezi.com/view/ZIGod5S1Z2sNoqs3RWQX/)
+
+[The TRON Journey - part 1](https://medium.com/@rexlintc/the-tron-journey-part-1-1b0ad10478bd)
+
+[The TRON Journey - part 2](https://medium.com/@rexlintc/the-tron-journey-part-2-b16d6cb2fdf2)
+
 ## Inspiration
 Blockchains are presently a widely-known nascent field of Computer Science due to the explosion of interest in Bitcoin and altcoins. While many people in the US and around the world dove into the Bitcoin craze and lost dearly during its crash, most people do not understand the details of Bitcoin and the blockchain technology that it utilizes. Rex and I have created this series to educate the public about the basics of blockchain technology in a concise manner. We hope that this information reaches many viewers and educates them about the essentials and dangers of this highly influential, new field.
 
@@ -11,13 +17,5 @@ The need to create content that is accessible to the gamut of blockchain learner
 
 ## How We Built it
 We used Prezi to create the presentation and Medium to host the articles.
-
-## Articles
-
-[Blockchain 101](https://prezi.com/view/ZIGod5S1Z2sNoqs3RWQX/)
-
-[The TRON Journey - part 1](https://medium.com/@rexlintc/the-tron-journey-part-1-1b0ad10478bd)
-
-[The TRON Journey - part 2](https://medium.com/@rexlintc/the-tron-journey-part-2-b16d6cb2fdf2)
 
 ### Cal Hacks 5.0
